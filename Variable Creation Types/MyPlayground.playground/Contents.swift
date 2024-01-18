@@ -2,7 +2,9 @@ import UIKit
 
 var sayi = 10
 
-var numara: Int? //opttional kullanımı
+// Ornek 2 baslangıc degeri atamadan
+
+var numara: Int? // ? optional kullanımdır
 
 numara = 20
 
